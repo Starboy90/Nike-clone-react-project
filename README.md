@@ -21,5 +21,6 @@ Bootstrap 5
 
 HTML/CSS (JSX with inline styles)
 
-![Screenshot (18)](https://github.com/user-attachments/assets/c64c913b-4857-43ee-8b62-3258cf6febf6)
+![Screenshot (20)](https://github.com/user-attachments/assets/f0041478-d9de-4bd5-8372-2badf67302ef)
+
 
