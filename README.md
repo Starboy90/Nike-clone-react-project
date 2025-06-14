@@ -14,6 +14,12 @@ Buttons with alert interaction for "Shop Now"
 
 Integrated brand logos (Amazon & Flipkart)
 
+Tech Stack:
+React.js
+
+Bootstrap 5
+
+HTML/CSS (JSX with inline styles)
 
 ![Screenshot (18)](https://github.com/user-attachments/assets/c64c913b-4857-43ee-8b62-3258cf6febf6)
 
